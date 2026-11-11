@@ -41,8 +41,8 @@ Announcing the initial **modpack** for of AMcD (name subject to change). Any mod
 
 The modpack source lives in `pack/` as a [packwiz](https://packwiz.infra.link/) project (one small `.pw.toml` per mod). The `.mrpack` is **not** committed; it is built from that source, either by GitHub Actions or locally.
 
-- **GitHub:** every push builds it as a workflow artifact, and publishing a release attaches it to the release.
-- **Locally:** install packwiz, then run `./build.sh`. The result is `dist/IRC-<version>.mrpack`.
+- **GitHub:** every push builds it as a downloadable artifact (dev name), and publishing a release builds the release-named file and attaches it to that release. Bump `version` in `pack/pack.toml` before releasing.
+- **Locally:** install packwiz, then run `./build.sh`. The result is in `dist/`: `IRC_mc<mc>_<date>_<commit>.mrpack` for a dev build, or `IRC_<version>_mc<mc>.mrpack` with `IRC_RELEASE=1 ./build.sh`.
 
 packwiz is not assumed to be installed. The recommended way to get it is the upstream installation guide (https://packwiz.infra.link/installation/), which provides prebuilt binaries; if you have a Go toolchain, `go install github.com/packwiz/packwiz@latest` also works.
 
