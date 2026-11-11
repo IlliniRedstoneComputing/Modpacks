@@ -1,0 +1,13 @@
+name = "MaLiLib API"
+filename = "malilib-api-0.8.6+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qppvg0Y6/versions/TuoZCljn/malilib-api-0.8.6%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "45d6901bc32d6f58532fd52af3c0411649620cf9b1cee8ad15f410ec4d0f4b529855bc163ae89f0b3568529b0a4c06dafcde4e384e97678fdbfc989c33d600df"
+
+[update]
+[update.modrinth]
+mod-id = "Qppvg0Y6"
+version = "TuoZCljn"

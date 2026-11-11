@@ -1,0 +1,13 @@
+name = "G4mespeed"
+filename = "g4mespeed-1.4.11-mc1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gW29KsnL/versions/79PNDape/g4mespeed-1.4.11-mc1.21.8.jar"
+hash-format = "sha512"
+hash = "39564e112c43792e2c9f300fe4434efd8926b04c78d4f87947e25a87f3c651db021762ef145d4febcca76f93dc906e9d7f8c4e0bbe2c4f6281fd5095f03ae3fb"
+
+[update]
+[update.modrinth]
+mod-id = "gW29KsnL"
+version = "79PNDape"

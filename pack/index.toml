@@ -1,0 +1,387 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fa80695a0289788c809bb9125c2b239370a05d6df76a08167a72b558d9daaa00"
+metafile = true
+
+[[files]]
+file = "mods/archive-downloader.pw.toml"
+hash = "26ffe40efccfe7e20171558574834dd4a41ffefca58c47bb60523e15254ef0a2"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "11f17ff54e5b5055c782742c162b7dbcd638031cb8701248d47e314b74592523"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "05ec9eadef944b22914a5ee580c9f2b1894607fb0bdbb6d2ccd411cf52641e4d"
+metafile = true
+
+[[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "7c6498f598f7a71d7d285b87ab44383e3be1eed32330aaa7d0e4ff5332256346"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "e5ebbf5877798a3f97061428614e05b680c4557348494978d2d9816c3243cb9e"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "d264afb5412f6f8e12d7ce75b4bfc8c752a5c41e520059593d583ce2e3490077"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "122f85dff1e476922df532237a8a4ae50d8cf42bd5db592568c6053393d0f051"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "1c50a0afa594e76630a563256a06ee3724dd70633f634e6befd31b08aca494da"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "54e3cc9a3c2a05cc879ffda7f4c97a89be0b648421d6c8fe92e2d3e5761abf20"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "58d01821618f01d70700ef0918a3e698cdc874926183e59be420df2021493b1c"
+metafile = true
+
+[[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "21baee39053eced925f3b33c07ba66a8d14f8a0a8b3567aced44c30f986c32de"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "db379b8258b814fb80cd5c013b9b1592186a45e7fbaba439fb90af2839102aff"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
+metafile = true
+
+[[files]]
+file = "mods/lite2edit.pw.toml"
+hash = "001ad73f08f1e8e004b71cac8a303fbe7da396c93d1fff17d81571c9a60b2cc1"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "4e53717a5cdf08364b86caafaa1adc1f058a8015657f37074719bd977b6b6ea9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
+metafile = true
+
+[[files]]
+file = "mods/malilib-api.pw.toml"
+hash = "03b0249323c2fe94d83749f49f264c37bddc2146bfe42fc819b51130e04804e8"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "b84cd432bfa63d97601bf6347aecb3395ba8aa6e81c0ec049a8852276b5d131a"
+metafile = true
+
+[[files]]
+file = "mods/minescript.pw.toml"
+hash = "ad3621a8d8cf6a5377b8de5e5b1c477a4a212eff9bb13d555ad337959ffc8bff"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "ef7454a8868a8597056396a03e48539741b30e71cbf423665749d7702f0d8f8f"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
+metafile = true
+
+[[files]]
+file = "mods/redstone-tools.pw.toml"
+hash = "63f999f8bb1268c6a664ff84d6ca05aa0388d2f9b8fe807cdc6a585ac2cd0af9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/regreader.pw.toml"
+hash = "ff357ada2ed666360d0c711a434c6971cdb6f76ba08099b9cb1921fcf18480a3"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1a563f0c589aced8101bb8a283af3725eedd1caaaaed4eb1987edfe3ff31c948"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3ef916454266cdbcbd3f517c53b1e27b360caa5266bf1b44d0d627aeab643516"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4ae7284d8db06843377576a1bd3f61fb6b52de2a8c17bf28a6194f7f9fd538f7"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c96e6f37f930d1dde6543566d2c4f56a9a40eae2c1f75ec5b2a3cd214e0af351"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "bdb2bbb6f0c9d6caab94b8da68755d4a27451a9bc265d3adc722496ca87539ac"
+
+[[files]]
+file = "resourcepacks/PACKDISPLAY002_Pong_Pack.zip"
+hash = "9c8938754641364f56f732c8aa5c48214708c5feab45aebf48601f9ac546fdab"
+
+[[files]]
+file = "resourcepacks/mattpack.pw.toml"
+hash = "adfcabe10facf62ba4e9ed9de1a9d57d432ecbf4c38bf5fdbcd1c6bdc4cbabc2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "614feca3ff5bbab080b023561b959eb64852ae3e096c6773909f07fec33ad3b2"
+metafile = true
+
+[[files]]
+file = "schematics/256_byte_ROM.litematic"
+hash = "df3972a90dc3954a0dc5ad5e49fd3bf18b03b116ec902379b1f19f27cb8f5852"
+
+[[files]]
+file = "schematics/8bit_comb_binary_to_bcd.schem"
+hash = "14c1562a70afccc31588f931aa47dc97195ef40f4984e0470fbcc40b4d5b8047"
+
+[[files]]
+file = "schematics/8bit_counter_load.schem"
+hash = "8e4cf8434924ee79186c59fd975c8941356bfec042da5754ae1245e557cf1aae"
+
+[[files]]
+file = "schematics/Keyboard_Ascii_Input.litematic"
+hash = "54f6cc87d07677c90890356113e36db98c7694813f2ba18ce7a6b42b582cff18"
+
+[[files]]
+file = "schematics/ROM003_8b8bROM.schem"
+hash = "3902a62ce687198390fa5c62b7a02856c4821b4bb8d7ce78f53cde6151db0599"
+
+[[files]]
+file = "schematics/ascii_decode_not_filled.litematic"
+hash = "a5f281fe7a419249c22893daeddec620bd1d02029d37dc82e6c50eab7457390f"
+
+[[files]]
+file = "schematics/decoder_3x8.litematic"
+hash = "613c64e7d14762eaf9f208b16873183fc2d88ed2ddca4bcf653948d05e6e3c26"
+
+[[files]]
+file = "schematics/echo_ROMdata.litematic"
+hash = "f00930e6107e049a7a4e003dc016ef0aeb7bc92b9889d0dfd8e84e9f9018b28a"
+
+[[files]]
+file = "schematics/fast_bcd_to_7seg.schem"
+hash = "2149a07fbd06c633483b86840f59b7d1ab90eea83d150740f8d23a6f5e53c4a5"
+
+[[files]]
+file = "schematics/hello_world_ROMdata.litematic"
+hash = "3f1dad6b67e23c741138e887811e5de1389c7edfd2a5298b1d679ece6febeb57"
+
+[[files]]
+file = "schematics/infinite_loop_ROMdata.litematic"
+hash = "551164ac31285f5393e607b5f459a23533c5362ae59f56c353d02d519e0d61ce"
+
+[[files]]
+file = "schematics/logical-redstone/ADD003_8bit_cca_3t.schem"
+hash = "9046ececdca2d7fd481d2f70a679af6e2c4fe1c13bc87ad66cdbdf950dd4faa8"
+
+[[files]]
+file = "schematics/logical-redstone/ADD009_16bit_cca.schem"
+hash = "d478fb830f1f5e41cfe11cbe02dc966cea3b718f4e080d96caf5c72dbee5fcd8"
+
+[[files]]
+file = "schematics/logical-redstone/ALU001_alu_cca.schem"
+hash = "4fa213c46c4759a761f8473e21079bfcd487b1decb0e4df53ec6b96d05fa7d96"
+
+[[files]]
+file = "schematics/logical-redstone/CHARDISPLAY002_word_processor.schem"
+hash = "fbd2c170fc39cedd3c98be791592b778f2b59ba3649fe295f081310a497c4302"
+
+[[files]]
+file = "schematics/logical-redstone/COUNT001_8bit_counter_load.schem"
+hash = "8e4cf8434924ee79186c59fd975c8941356bfec042da5754ae1245e557cf1aae"
+
+[[files]]
+file = "schematics/logical-redstone/COUNT003_8bit_counter.schem"
+hash = "50bba2f11740800d6789edf47cbb417efad8cae1e09326caf6b7fe8cb724734a"
+
+[[files]]
+file = "schematics/logical-redstone/COUNT004_up_down_load_counter.schem"
+hash = "d640e8ca58ec50a5414228c29358ccc7f76c2326a51a03a69284f6f8a3b31976"
+
+[[files]]
+file = "schematics/logical-redstone/CROSSWIRE002_classic_crosswire.schem"
+hash = "2a56c7eb1cd9b1c775d4e1a5fa8c1adf2d2c29e9361496ae8484fd8e7779a976"
+
+[[files]]
+file = "schematics/logical-redstone/DECODE001_decode_v2v.schem"
+hash = "c56633cb1d9635d9da03c3012432b959c1212bea7de4aec7114d5231a2bc9000"
+
+[[files]]
+file = "schematics/logical-redstone/DECODE002_decode_v2h.schem"
+hash = "14582b017b2d39821a3d0629a85717efd7912915b2063dcff69c32d5936f8d36"
+
+[[files]]
+file = "schematics/logical-redstone/DECODE006_torchlesstristatedecoder.schem"
+hash = "2b564e486b0a2648736eca8c32fe2c99cbbf0fb5941a9528565da6dd10dcd2eb"
+
+[[files]]
+file = "schematics/logical-redstone/DISMODULE002_big_7seg_module.schem"
+hash = "c36368786b3efbc4b42361dd3831e025e567487dd2bb0d6a641c6ebfcd35cf7c"
+
+[[files]]
+file = "schematics/logical-redstone/ENCODE004_encode_h2v.schem"
+hash = "8a2d9daffc9bd4e8ed2d939073300c31cfae7db2ebc50daefc52a3a6a79599e1"
+
+[[files]]
+file = "schematics/logical-redstone/FLIPSWAP002_8bit_swap.schem"
+hash = "afc194512c0743e01dcebed8379e25453c79f26b0dcbde497a12f91c983681e9"
+
+[[files]]
+file = "schematics/logical-redstone/INTERFACE004_banner_keyboard.schem"
+hash = "990217574cc66c4996a01d095aeef9665976ea10b9d915ebddaaf926b7484884"
+
+[[files]]
+file = "schematics/logical-redstone/OTHERSEQ003_config_clock.schem"
+hash = "56538523ea99235af492b2e338a58b1a381740b479b762f1b01cc1c36e6a13d9"
+
+[[files]]
+file = "schematics/logical-redstone/PIXDISPLAY003_rom_display.schem"
+hash = "6b2d47664a72f27b339e144975e24f43767c03a00ff9a83ded45328ee85d33a5"
+
+[[files]]
+file = "schematics/logical-redstone/RANDOM005_lfsr_1.schem"
+hash = "7f079f0d2e25950c4d3171e99ce907175d48d980f4c8a4b7e2c99a3702f55edf"
+
+[[files]]
+file = "schematics/logical-redstone/REDCODE002_3wide_redcoder.schem"
+hash = "deffeceba074c8e21c1e55b8a169323bdb6d65facfb3aa010ac337e7ed5a65cf"
+
+[[files]]
+file = "schematics/logical-redstone/REDCODE003_vertical_redcoder.schem"
+hash = "12812b4654ac0fcc4b734d3f57ccba54baa852b28d3b70249b645c4865a6b79b"
+
+[[files]]
+file = "schematics/logical-redstone/REGISTER001_8bit_register.schem"
+hash = "b454e88873e2e124f161eb7502eb7722489b076917f0da84cf758fb1c40479ea"
+
+[[files]]
+file = "schematics/logical-redstone/REGISTERFILE001_register_file.schem"
+hash = "158370f236d9339d3de9b3f6021572c422f5cfd683fbc3ca0870a3af2db52229"
+
+[[files]]
+file = "schematics/logical-redstone/ROM002_1KiBROM_1.schem"
+hash = "1bd51aab01883199926cb915f95543a5e4dec7598359046fede46c8bacddb890"
+
+[[files]]
+file = "schematics/logical-redstone/ROM003_8b8bROM.schem"
+hash = "3902a62ce687198390fa5c62b7a02856c4821b4bb8d7ce78f53cde6151db0599"
+
+[[files]]
+file = "schematics/logical-redstone/SHIFT003_bidirectional_shift_reg_load.schem"
+hash = "c99484a10fcc12f877f1f95ce14b5a503bb950ebce8f16d86bd1b37b1f18b11d"
+
+[[files]]
+file = "schematics/logical-redstone/SQRT005_2tsqrt.schem"
+hash = "9af67e866673e8b230498345672dcd1e510471d469ca1b7af8b8358fa4d75302"
+
+[[files]]
+file = "schematics/logical-redstone/TRANSMIT001_1wide_updiag.schem"
+hash = "e375753073f9427212241815108c59907bd744005ceb018c0ec6557902f4d01c"
+
+[[files]]
+file = "schematics/logical-redstone/TRANSMIT002_hex_transmit_flat.schem"
+hash = "c69c834ea5418ab2965a9332336cab6c6f8e7ab08ecc327af8a6d9cba279b595"
+
+[[files]]
+file = "schematics/logical-redstone/TRANSMIT005_stackable_spirals.schem"
+hash = "61030dd3d54aab12789547928bbaaa5200878f9251ae8f09394506c14cdd8cc7"
+
+[[files]]
+file = "schematics/multiply_ROMdata.litematic"
+hash = "9ffc833121594f0132479b04ae6c5d25027f2457e6738f217eca4ee349d3d5fc"
+
+[[files]]
+file = "schematics/mux_x4.litematic"
+hash = "6714ba1f0f53bbc758f7c9dc95c1cddaab27d0d023103eca0fae9332e700ea35"
+
+[[files]]
+file = "schematics/registerfile_6x8.litematic"
+hash = "a0dae07d2b1314a05cdaba9c00b96fe69cb353cd83d5a3d3998ed689a316f094"
+
+[[files]]
+file = "schematics/registerfile_6x8_invert_saveload.litematic"
+hash = "01169013ad702facc8d25aad4348b226e315b8bf676c0a1ff50d1943a32fbd7a"
+
+[[files]]
+file = "schematics/registerfile_6x8_smol.litematic"
+hash = "3b346817d002ada51ea857b48c33428e61a9af6b7dec1ca3f22743b53f643d22"
+
+[[files]]
+file = "schematics/registerfile_6x8_with_decode.litematic"
+hash = "e61fc392aa74ce2a283ee0346b33f5fac4b14d4597157ab0f71e90dd3d198aa2"
+
+[[files]]
+file = "schematics/registerfile_7x8_full.litematic"
+hash = "928cf9e84decf26a0cd84551493fd642e2852bee0b9b8d492578a1dbd08ffcc0"
+
+[[files]]
+file = "schematics/registerfile_7x8_smol.litematic"
+hash = "9601ef48f6515118d2a4c8368ec86eca7a7af6cf92624fb62b4ca7030f5b7c9f"
+
+[[files]]
+file = "schematics/sequential_ROMdata.litematic"
+hash = "cc99c49748c7f4970fbbf9d4f028cb649f5f741a0b7b8ebc00d3457a6858d0ad"
+
+[[files]]
+file = "schematics/t.litematic"
+hash = "6cbebf6cd45e67e29d94258c58f739120fa2fe14dd582f8b606361d3dbe3933e"
+
+[[files]]
+file = "schematics/test.schem"
+hash = "16d2cd3b1148a1176e203ea1e50e4e425a5036eab3ebe9b7160d4ff94eb6e200"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.9.2.zip.txt"
+hash = "e22bba0903335e8e083b23e91a0936c8715ab5a29e16b38629526de05cb9eb6f"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "d28a3f3e991a4d65cda9d18b37bc3672bc87f3e04aeeaf47b59d7e63581e3c3f"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Archive Downloader"
+filename = "archive-downloader-1.0.24+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6PRa8cm7/versions/3s0HlX6c/archive-downloader-1.0.24%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "6e6ec3be88e334307379ed22ddca6b752e6bb737fb76e3cb312b28a8c89c31dca33381ad92fc4fdd60d8475f8f0fc82c866f97f16316d95e0e822e55312745d5"
+
+[update]
+[update.modrinth]
+mod-id = "6PRa8cm7"
+version = "3s0HlX6c"

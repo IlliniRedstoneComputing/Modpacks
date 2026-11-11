@@ -1,0 +1,13 @@
+name = "MattPack"
+filename = "MattPack 1.21.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QnQVCdvD/versions/uLEFsJic/MattPack%201.21.zip"
+hash-format = "sha512"
+hash = "0623dba1b8fa52ac7ee50ef58060ec0cfc16a5e4ec50b59b0f6b0b3ae631c82a338c7677077e4a5441472aaf3c2959a0169ba9095645e4c7c0529f18764c4ffb"
+
+[update]
+[update.modrinth]
+mod-id = "QnQVCdvD"
+version = "uLEFsJic"

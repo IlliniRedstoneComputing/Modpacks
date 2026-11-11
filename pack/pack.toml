@@ -1,0 +1,13 @@
+name = "IRC"
+author = "Illini Redstone Computing"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a1ebabdba35fa00ad23732eab7de9983a76594c4d0336426337161b0eec2da4b"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "1.21.8"
