@@ -1,0 +1,13 @@
+name = "Wueffis RegReader for Computational Redstone"
+filename = "wueffis-reg-reader-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DRb5H4g6/versions/5h5gPfbr/wueffis-reg-reader-1.5.2.jar"
+hash-format = "sha512"
+hash = "e6c9fd1f4cffd91373542d18be7b6e859eb19e004bf011d832b5849e35ba7def377bb68dce0efe61719046e1781fc7878d682b2ebc81410877d9795d4c3ceb3d"
+
+[update]
+[update.modrinth]
+mod-id = "DRb5H4g6"
+version = "5h5gPfbr"

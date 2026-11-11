@@ -1,0 +1,29 @@
+name: build
+on:
+  push:
+  pull_request:
+  release:
+    types: [published]
+permissions:
+  contents: write
+jobs:
+  mrpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: stable
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@170b22d78595
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+      - run: ./build.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: mrpack
+          path: dist/*.mrpack
+      - if: github.event_name == 'release'
+        run: gh release upload "${{ github.event.release.tag_name }}" dist/*.mrpack --clobber
+        env:
+          GH_TOKEN: ${{ github.token }}

@@ -1,0 +1,13 @@
+name = "Redstone Tools"
+filename = "redstonetools-3.4.0+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9ySQVrz2/versions/u8eLOjr5/redstonetools-3.4.0%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "14aa27ee12c0aa2cfcbb9aa383aa20d5faab5b1e8b47651eddfb88029afb82c42ee63f7152fb4959d138b8562f3697c88f08153809c203f993570cd6dccd1283"
+
+[update]
+[update.modrinth]
+mod-id = "9ySQVrz2"
+version = "u8eLOjr5"
