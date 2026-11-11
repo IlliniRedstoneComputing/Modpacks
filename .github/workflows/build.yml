@@ -8,10 +8,10 @@ permissions:
   contents: write
 jobs:
   mrpack:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-go@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-go@v6
         with:
           go-version: stable
       - name: Install packwiz
@@ -19,7 +19,7 @@ jobs:
           go install github.com/packwiz/packwiz@170b22d78595
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
       - run: ./build.sh
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v6
         with:
           name: mrpack
           path: dist/*.mrpack
